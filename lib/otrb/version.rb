@@ -1,3 +1,3 @@
-module Otrb
-  VERSION = "0.0.1"
+module OTRb
+  VERSION = '0.0.1'
 end

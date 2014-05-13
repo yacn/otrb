@@ -1,5 +1,5 @@
-require "otrb/version"
+require 'otrb/version'
 
-module Otrb
+module OTRb
   # Your code goes here...
 end

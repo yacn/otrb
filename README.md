@@ -1,4 +1,4 @@
-# Otrb
+# OTRb
 
 TODO: Write a gem description
 
